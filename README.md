@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Doni Irawan
+#  Doni Irawan
 
 **Software Engineer | Backend & Cloud Infrastructure Focus**
 
 [![Website Portfolio](https://img.shields.io/badge/Portfolio-donirawans.github.io-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://donirawans.github.io/my-portofolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Doni_Irawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/Instagram-@doni_irawan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/doni_irawan)
+[![Instagram](https://img.shields.io/badge/Instagram-@doni_irawan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irawnash)
 [![Email](https://img.shields.io/badge/Email-donirawan52%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donirawan52@gmail.com)
 [![Location](https://img.shields.io/badge/Location-South_Tangerang%2C_ID-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -14,17 +14,17 @@
 
 </div>
 
-### 🚀 Executive Summary
+###  Executive Summary
 
 An Informatics Engineering fresh graduate from **Universitas Muhammadiyah Jakarta** with a strong focus on architecting high-performance backend microservices, designing scalable database schemas, and deploying cloud containerized applications.
 
-- ⚙️ **Core Backend Stack:** Golang (Echo Framework), PHP (Laravel 11), RESTful API design, JWT/OTP Authentication, and Clean Architecture.
-- ☁️ **Cloud & Infrastructure:** Docker containerization, AWS EC2, AWS RDS (MySQL), and Cloudflare CDN integration.
-- 🤖 **AI & Machine Learning:** End-to-end ML classification pipelines (Random Forest, KNN with RUS + SMOTE) & Google Gemini API integrations.
+-  **Core Backend Stack:** Golang (Echo Framework), PHP (Laravel 11), RESTful API design, JWT/OTP Authentication, and Clean Architecture.
+-  **Cloud & Infrastructure:** Docker containerization, AWS EC2, AWS RDS (MySQL), and Cloudflare CDN integration.
+-  **AI & Machine Learning:** End-to-end ML classification pipelines (Random Forest, KNN with RUS + SMOTE) & Google Gemini API integrations.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Capabilities
+###  Tech Stack & Engineering Capabilities
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,laravel,aws,docker,mysql,postgres,py,react,tailwind,postman,git,linux&perline=6" alt="Tech Stack Icons" />
