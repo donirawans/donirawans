@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Doni Irawan
+#  Doni Irawan
 
 **Software Engineer | Backend & Cloud Infrastructure Focus**
 
@@ -13,17 +13,17 @@
 
 </div>
 
-### 🚀 Executive Summary
+###  Executive Summary
 
 An Informatics Engineering fresh graduate from **Universitas Muhammadiyah Jakarta** with a strong focus on architecting high-performance backend microservices, designing scalable database schemas, and deploying cloud containerized applications.
 
-- ⚙️ **Core Backend Stack:** Golang (Echo Framework), PHP (Laravel 11), RESTful API design, JWT/OTP Authentication, and Clean Architecture.
-- ☁️️ **Cloud & Infrastructure:** Docker containerization, AWS EC2, AWS RDS (MySQL), and Cloudflare CDN integration.
-- 🤖 **AI & Machine Learning:** End-to-end ML classification pipelines (Random Forest, KNN with RUS + SMOTE) & Google Gemini API integrations.
+-  **Core Backend Stack:** Golang (Echo Framework), PHP (Laravel 11), RESTful API design, JWT/OTP Authentication, and Clean Architecture.
+-  **Cloud & Infrastructure:** Docker containerization, AWS EC2, AWS RDS (MySQL), and Cloudflare CDN integration.
+-  **AI & Machine Learning:** End-to-end ML classification pipelines (Random Forest, KNN with RUS + SMOTE) & Google Gemini API integrations.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Capabilities
+###  Tech Stack & Engineering Capabilities
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,laravel,aws,docker,mysql,postgres,py,react,tailwind,postman,git,linux&perline=6" alt="Tech Stack Icons" />
@@ -39,16 +39,22 @@ An Informatics Engineering fresh graduate from **Universitas Muhammadiyah Jakart
 
 ---
 
-### 📊 GitHub Telemetry & Activity
+###  GitHub Telemetry & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donirawans&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donirawans&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img height="195" src="https://github-readme-stats.vercel.app/api?username=donirawans&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donirawans&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
   <i>"Building resilient, scalable, and high-performance software systems."</i><br>
-  📬 Feel free to connect or reach out via <a href="mailto:donirawan52@gmail.com">donirawan52@gmail.com</a>
+   Feel free to connect or reach out via <a href="mailto:donirawan52@gmail.com">donirawan52@gmail.com</a>
 </div>
