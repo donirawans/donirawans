@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Doni Irawan
+#  Doni Irawan
 
 **Software Engineer | Backend & Cloud Infrastructure Focus**
 
@@ -12,17 +12,17 @@
 
 </div>
 
-### 🚀 Executive Summary
+###  Executive Summary
 
 An Informatics Engineering fresh graduate from **Universitas Muhammadiyah Jakarta** with a strong focus on architecting high-performance backend microservices, designing scalable database schemas, and deploying cloud containerized applications.
 
-- ⚙️ **Core Backend Stack:** Golang (Echo Framework), PHP (Laravel 11), RESTful API design, JWT/OTP Authentication, and Clean Architecture.
-- ☁️ **Cloud & Infrastructure:** Docker containerization, AWS EC2, AWS RDS (MySQL), and Cloudflare CDN integration.
-- 🤖 **AI & Machine Learning:** End-to-end ML classification pipelines (Random Forest, KNN with RUS + SMOTE) & Google Gemini API integrations.
+-  **Core Backend Stack:** Golang (Echo Framework), PHP (Laravel 11), RESTful API design, JWT/OTP Authentication, and Clean Architecture.
+-  **Cloud & Infrastructure:** Docker containerization, AWS EC2, AWS RDS (MySQL), and Cloudflare CDN integration.
+-  **AI & Machine Learning:** End-to-end ML classification pipelines (Random Forest, KNN with RUS + SMOTE) & Google Gemini API integrations.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Capabilities
+###  Tech Stack & Engineering Capabilities
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,laravel,aws,docker,mysql,postgres,py,react,tailwind,postman,git,linux&perline=6" alt="Tech Stack Icons" />
@@ -36,31 +36,7 @@ An Informatics Engineering fresh graduate from **Universitas Muhammadiyah Jakart
 | **AI & Data Science** | Python, Scikit-learn, Pandas, NumPy, Google Gemini API, Flask, Streamlit |
 | **Frontend & Tools** | React.js, JavaScript, TypeScript, Tailwind CSS, Postman, Kali Linux |
 
----
-
-### 📌 Selected Engineering Projects
-
-#### 1. 🌐 [Calmind — Backend Engine](https://github.com/Kelompok-6-capstone/Back-End)
-> **Stack:** `Golang` · `Echo` · `AWS EC2/RDS` · `Docker` · `Google Gemini API` · `Midtrans`
-- Engineered high-concurrency microservice APIs for AI-powered mental health counseling following **Golang Clean Architecture**.
-- Implemented JWT & OTP authentication, Midtrans payment gateway, and Cloudflare CDN. Deployed via Docker on AWS EC2.
-
-#### 2. 🤖 [GrowthCore — Toddler Stunting Classification](https://github.com/donirawans/balita-stunting-prediction)
-> **Stack:** `Python` · `Scikit-Learn` · `Pandas` · `Flask` · `Random Forest` · `KNN`
-- Developed an early stunting detection system trained on **9,457 anthropometric records**.
-- Solved class imbalance using **RUS + SMOTE**, achieving **98.89% accuracy** and **96.91% F1-score**, integrated into a Flask Web UI.
-
-#### 3. 🌊 [Flood Early Warning API](https://github.com/donirawans/Doni-Irawan-Golang-Mini-Project)
-> **Stack:** `Golang` · `Echo` · `AWS EC2/RDS` · `Google Gemini API`
-- Built real-time weather parameter reporting and AI flood risk prediction services using Google Gemini LLM API.
-
-#### 4. 🐄 [Kandas — Cattle Farm & Sales App](https://github.com/donirawans/Website-Peternakan)
-> **Stack:** `Laravel 11` · `React 19` · `MySQL` · `Tailwind CSS`
-- Full-stack livestock management platform with age-based catalog filtering, multi-level RBAC, survey scheduling, and digital invoicing.
-
----
-
-### 📊 GitHub Telemetry & Stats
+###  GitHub Telemetry & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=donirawans&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
