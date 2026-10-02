@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**donirawans/donirawans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Doni Irawan 👋
 
-Here are some ideas to get you started:
+**Informatics Engineering Fresh Graduate | Full-Stack & Backend Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website Portfolio](https://img.shields.io/badge/Website-donirawans.github.io-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://donirawans.github.io/my-portofolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Doni_Irawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-donirawan52@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donirawan52@gmail.com)
+
+---
+
+</div>
+
+### 👨‍💻 About Me
+
+```tech-stack
+Fresh Graduate in Informatics Engineering from Universitas Muhammadiyah Jakarta.
+Focusing on High-Performance Backend Systems, Microservices Architecture, and Cloud Infrastructure.
