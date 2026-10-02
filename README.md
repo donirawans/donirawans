@@ -6,7 +6,7 @@
 
 [![Website Portfolio](https://img.shields.io/badge/Portfolio-donirawans.github.io-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://donirawans.github.io/my-portofolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Doni_Irawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/Instagram-@doni_irawan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irawnash)
+[![Instagram](https://img.shields.io/badge/Instagram-@doni_irawan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irrawandoni/)
 [![Email](https://img.shields.io/badge/Email-donirawan52%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donirawan52@gmail.com)
 [![Location](https://img.shields.io/badge/Location-South_Tangerang%2C_ID-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -30,37 +30,13 @@ An Informatics Engineering fresh graduate from **Universitas Muhammadiyah Jakart
   <img src="https://skillicons.dev/icons?i=go,laravel,aws,docker,mysql,postgres,py,react,tailwind,postman,git,linux&perline=6" alt="Tech Stack Icons" />
 </p>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="28%" align="left">Area</th>
-      <th width="72%" align="left">Technologies & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Backend & APIs</b></td>
-      <td>Golang (Echo), PHP (Laravel), RESTful Microservices, Clean Architecture, Swagger/OpenAPI</td>
-    </tr>
-    <tr>
-      <td><b>Cloud & DevOps</b></td>
-      <td>AWS (EC2, RDS), Docker Containerization, Cloudflare CDN, Git/GitHub</td>
-    </tr>
-    <tr>
-      <td><b>Databases</b></td>
-      <td>MySQL, PostgreSQL, SQLite, GORM, Eloquent ORM</td>
-    </tr>
-    <tr>
-      <td><b>AI & Data Science</b></td>
-      <td>Python, Scikit-learn, Pandas, NumPy, Google Gemini API, Flask</td>
-    </tr>
-    <tr>
-      <td><b>Frontend & Tools</b></td>
-      <td>React.js, JavaScript, TypeScript, Tailwind CSS, Postman, Linux</td>
-    </tr>
-  </tbody>
-</table>
-
+| Area &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Technologies & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :--- | :--- |
+| **Backend & APIs** | Golang (Echo), PHP (Laravel), RESTful Microservices, Clean Architecture, Swagger/OpenAPI |
+| **Cloud & DevOps** | AWS (EC2, RDS), Docker Containerization, Cloudflare CDN, Git/GitHub |
+| **Databases** | MySQL, PostgreSQL, SQLite, GORM, Eloquent ORM |
+| **AI & Data Science** | Python, Scikit-learn, Pandas, NumPy, Google Gemini API, Flask |
+| **Frontend & Tools** | React.js, JavaScript, TypeScript, Tailwind CSS, Postman, Linux |
 ---
 
 <div align="center">
